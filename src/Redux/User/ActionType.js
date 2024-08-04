@@ -1,0 +1,14 @@
+
+
+export const REQ_USER = "REQ_USER";
+export const REQ_USER_PROFILE_PHOTO_UPDATE = "REQ_USER_PROFILE_PHOTO_UPDATE";
+export const REQ_USER_PROFILE_UPDATE = "REQ_USER_PROFILE_UPDATE";
+
+
+export const GET_USER_BY_USEENAME = "GET_USER_BY_USEENAME";
+
+export const SAVE_POST = "SAVE_POST";
+
+export const UNSAVE_POST = "UNSAVE_POST";
+
+

@@ -1,0 +1,14 @@
+
+
+
+export const CREATE_NEW_POST = "CREATE_NEW_POST";
+
+export const GET_ALL_FOLLOING_USERPOST = "GET_ALL_FOLLOING_USERPOST";
+
+export const PROFILE_USER_ALL_POSTS = "PROFILE_USER_ALL_POSTS";
+
+export const LIKE_POST = "LIKE_POST";
+
+export const UNLIKE_POST = "UNLIKE_POST";
+
+export const GET_POST_BY_ID = "GET_POST_BY_ID";

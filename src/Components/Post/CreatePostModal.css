@@ -1,0 +1,48 @@
+
+
+
+.custom-drag-drop{
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    padding: 2rem;
+    font-size: 1.2rem;
+    cursor: pointer;
+
+}
+
+.custom-drag-drop p{
+    margin: 0 0 1rem;
+}
+
+.custom-file-upload{
+    padding: .5rem 1rem;
+    cursor: pointer;
+    font-weight: 600;
+    background-color: #0000ff;
+  
+    color: #ffffff;
+}
+
+.custom-file-upload:hover{
+    background-color: rgb(13, 13, 161);
+
+}
+
+input[type="file"]{
+    display: none;
+}
+
+.captionInput{
+    margin-top: 5px;
+    width: 100%;
+    outline: none;
+    resize: none;
+}
+
+.location-input{
+    width: 100%;
+    border: none;
+    outline: none;
+}
